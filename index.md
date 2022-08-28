@@ -13,7 +13,7 @@ Game View
 
 ## The romance of three kingdoms (story in Chinese)
 
-### 何近
+### 何进
 1. [何进](https://www.bilibili.com/video/bv1vB4y1u7Bi)
 
 ### 袁绍
@@ -39,7 +39,7 @@ Game View
 1. [吕布-骁武飞将易反目](https://www.bilibili.com/video/bv1ji4y127Cv)
 1. [吕布-袭夺兖州](https://www.bilibili.com/video/bv15r4y1G7H9)
 1. [吕布-辕门射戟救刘备](https://www.bilibili.com/video/bv1UB4y1v7tG)
-1. [吕布-命丧白门楼](https://www.bilibili.com/video/bv1YU4y167qN).
+1. [吕布-命丧白门楼](https://www.bilibili.com/video/bv1YU4y167qN)
 
 
 
