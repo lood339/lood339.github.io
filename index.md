@@ -10,15 +10,21 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Nine War: Three Kingdoms
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+It is a turn-based strategy game. Now it is based on Pygame and I plan
+move it to Godot.
 
-## Header 2
+![Load Game](./docs/img/sanguo_load.png)
+![Game View](./docs/img/sanguo_play.png)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+# The romance of threee kingdoms (story in Chinese)
+
+### And an ordered list:
+1. [吕布-骁武飞将易反目](https://www.bilibili.com/video/bv1ji4y127Cv)
+1. [吕布-袭夺兖州](https://www.bilibili.com/video/bv15r4y1G7H9)
+1. [吕布-辕门射戟救刘备](https://www.bilibili.com/video/bv1UB4y1v7tG)
+1. [吕布-命丧白门楼](https://www.bilibili.com/video/bv1YU4y167qN).
 
 ### Header 3
 
@@ -69,12 +75,7 @@ end
 *   Item baz
 *   Item zip
 
-### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 
